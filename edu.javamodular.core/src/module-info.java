@@ -1,2 +1,3 @@
-module $MODULE_NAME$ {
+module edu.javamodular.core {
+    requires edu.javamodular.calculadora;
 }

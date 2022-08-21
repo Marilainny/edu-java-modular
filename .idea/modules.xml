@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/edu.javamodular.calculadora/edu.javamodular.calculadora.iml" filepath="$PROJECT_DIR$/edu.javamodular.calculadora/edu.javamodular.calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu.javamodular.core/edu.javamodular.core.iml" filepath="$PROJECT_DIR$/edu.javamodular.core/edu.javamodular.core.iml" />
       <module fileurl="file://$PROJECT_DIR$/javamodular.iml" filepath="$PROJECT_DIR$/javamodular.iml" />
     </modules>
   </component>
